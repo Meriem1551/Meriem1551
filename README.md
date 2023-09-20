@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
 
+- 🌱 I’m currently learning **angular, java**
+
 - 👨‍💻 All of my projects are available at [https://meriem1551.github.io/Portfolio-website/](https://meriem1551.github.io/Portfolio-website/)
 
 - 💬 Ask me about **react, html, css, js, c**
@@ -32,9 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meriem1551&show_icons=true&locale=en" alt="meriem1551" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meriem1551&" alt="meriem1551" /></p>
-
-
-
 
 
 
