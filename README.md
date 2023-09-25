@@ -9,21 +9,27 @@
 
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
 
-- 🌱 I’m currently learning **angular, java**
+- 🌱 I’m currently learning **Angular, Java**
 
 - 👨‍💻 All of my projects are available at [https://meriem1551.github.io/Portfolio-website/](https://meriem1551.github.io/Portfolio-website/)
 
-- 💬 Ask me about **react, html, css, js, c**
+- 💬 Ask me about **React, Html, Css, JS, C**
 
 - 📫 How to reach me **m.boussaid2004@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/meriem1551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meriem1551" height="30" width="40" /></a>
 <a href="https://twitter.com/meriem25957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meriem25957" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/boussaid meriem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boussaid meriem" height="30" width="40" /></a>
 <a href="https://fb.com/męr ïem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="męr ïem" height="30" width="40" /></a>
 <a href="https://instagram.com/shirayuki__dono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirayuki__dono" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meriem-boussaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meriem-boussaid" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@meriem200409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@meriem200409" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
