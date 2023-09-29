@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meriem1551&theme=darkhub" alt="Meriem1551" /></a> </p>
 
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
-- 🌱 I’m currently learning **Angular, Java**
+- 🌱 I’m currently learning **Golang, Java**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📫 How to reach me **m.boussaid2004@gmail.com**
 - 👨‍💻 All of my projects are available at **https://meriem1551.github.io/Portfolio-website/**
