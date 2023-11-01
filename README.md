@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📫 How to reach me **m.boussaid2004@gmail.com**
-- 👨‍💻 All of my projects are available at **https://meriem1551.github.io/Portfolio-website/**
 
 <div> <a href="https://twitter.com/meriem25957" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/boussaid meriem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
