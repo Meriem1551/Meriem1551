@@ -1,6 +1,7 @@
-<img src="https://www.rubussoft.com/wp-content/uploads/2022/09/product-development.svg" width="70%">
 <h1 align="center">Hi 👋, I'm Meriem</h1>
 <h2 align="center">A passionate computer-science student from Algeria | Frontend Developer</h2>
+<img src="https://www.rubussoft.com/wp-content/uploads/2022/09/product-development.svg" width="70%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meriem1551&label=Profile%20views&color=0e75b6&style=flat" alt="Meriem1551" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meriem1551&theme=darkhub" alt="Meriem1551" /></a> </p>
