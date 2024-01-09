@@ -1,4 +1,4 @@
-<img src="https://imgur.com/sKNtuj5.gif" alt="Image Alt Text" width="1200" height="450" />
+<img src="https://imgur.com/sKNtuj5.gif" alt="Image Alt Text" width="1200" height="350" />
 <h1 align="center" >Hi 👋, I'm Meriem</h1>
 <h2 align="center">A passionate computer-science student from Algeria | Frontend Developer</h2>
 
