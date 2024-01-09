@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Meriem</h1>
+<img src="https://imgur.com/sKNtuj5.gif" alt="Image Alt Text" width="1200" height="450" />
+<h1 align="center" >Hi 👋, I'm Meriem</h1>
 <h2 align="center">A passionate computer-science student from Algeria | Frontend Developer</h2>
-<img src="https://www.rubussoft.com/wp-content/uploads/2022/09/product-development.svg" width="70%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meriem1551&label=Profile%20views&color=0e75b6&style=flat" alt="Meriem1551" /> </p>
 
@@ -58,5 +58,4 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Meriem1551&theme=default"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://imgur.com/1z1pD8Z.png" alt="Image Alt Text" width="1200" height="450" />
