@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
 - 🌱 I’m currently learning **java**
 - 💬 Ask me about **React, Html, Css, JS, C**
-- 📫 How to reach me **m.boussaid2004@gmail.com**
+- 📧 How to reach me **m.boussaid2004@gmail.com**
  ### 🌟 Hobbies:
  
 - Drawing and painting 🎨
@@ -26,19 +26,15 @@
 
 # 🏆Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meriem1551&theme=darkhub&row=2&column=5" alt="Meriem1551" /></a> 
-<img src="https://imgur.com/6q4e1uX.jpg" alt="little-keqing" align="left"/>
 </p>
 
-<div> <a href="https://twitter.com/meriem25957" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/boussaid meriem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Meriem1551" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/shirayuki__dono" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:m.boussaid2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+
+<h1 align="left">📪Connect with me:<img src="https://imgur.com/6q4e1uX.jpg" alt="little-keqing" width="400" align="left"/>
+</h1>
 <p align="left">
 <a href="https://twitter.com/meriem25957" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="meriem25957" height="30" width="40" /></a><a href="https://linkedin.com/in/boussaid meriem" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="boussaid meriem" height="30" width="40" /></a><a href="https://fb.com/męr ïem" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="męr ïem" height="30" width="40" /></a><a href="https://www.hackerrank.com/@meriem200409" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@meriem200409" height="30" width="40" /></a><a href="https://www.leetcode.com/meriem-boussaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="meriem-boussaid" height="30" width="40" /></a><a href="https://instagram.com/shirayuki__dono" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="shirayuki__dono" height="30" width="40" /></a><a href="https://dev.to/meriem1551" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="meriem1551" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left" >🛠️Languages and Tools:</h1>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
