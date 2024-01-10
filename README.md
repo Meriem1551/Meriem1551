@@ -1,16 +1,23 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meriem1551&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Meriem1551" /> </p>
 <img src="https://imgur.com/sKNtuj5.gif" alt="Image Alt Text" width="1200" height="350" />
-<h1 align="center" >Hi 👋, I'm Meriem</h1>
-<h2 align="center">A passionate computer-science student from Algeria | Frontend Developer</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meriem1551&label=Profile%20views&color=0e75b6&style=flat" alt="Meriem1551" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meriem1551&theme=darkhub" alt="Meriem1551" /></a> </p>
-
+<table>
+<tr>
+  <td>
+    <h1 >Hi 👋, I'm Meriem</h1>
+    <h2 >A passionate computer-science student from Algeria | Frontend Developer</h2>
+    
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📫 How to reach me **m.boussaid2004@gmail.com**
-
+  </td>
+  <td>
+    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing"/>
+  </td>
+</tr>
+</table>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meriem1551&theme=darkhub" alt="Meriem1551" /></a> </p>
 <div> <a href="https://twitter.com/meriem25957" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/boussaid meriem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Meriem1551" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
