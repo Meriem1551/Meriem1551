@@ -74,4 +74,4 @@
 <h1 align="left">⚡Activity Graph:</h1>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meriem1551&bg_color=e6d1ff&color=ac39f9&line=c275f5&point=8321c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://imgur.com/1z1pD8Z.png" alt="Image Alt Text" width="1200" height="300" />
+<img src="https://imgur.com/1z1pD8Z.png" alt="Image Alt Text" width="1200" height="350" />
