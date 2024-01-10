@@ -12,7 +12,7 @@
 - 📫 How to reach me **m.boussaid2004@gmail.com**
   </td>
   <td>
-    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing"/>
+    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" width="1800"/>
   </td>
 </tr>
 </table>
