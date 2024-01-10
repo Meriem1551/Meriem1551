@@ -12,10 +12,11 @@
 - 🌱 I’m currently learning **java**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📫 How to reach me **m.boussaid2004@gmail.com**
- #### 🌟 Hobbies:
+ ### 🌟 Hobbies:
  
 - Drawing and painting 🎨
-- watching animes🤭
+- Watching animes 🤭
+- Learning Japanese 🎌
   </td>
   <td>
     <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" width="1000"/>
