@@ -4,17 +4,21 @@
 <tr>
   <td>
     <div align="center">
-    <h1 >Hi 👋, I'm Meriem</h1>
-    <h2 >A passionate computer-science student from Algeria | Frontend Developer</h2>
+    <h1 >Hi 👋, I'm Meriem :smile:</h1>
+    <h2 >A passionate computer science student 👩‍💻 from Algeria | Frontend Developer </h2>
     </div>
     
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **java**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📫 How to reach me **m.boussaid2004@gmail.com**
+ #### 🌟 Hobbies:
+ 
+- Drawing and painting 🎨
+- watching animes🤭
   </td>
   <td>
-    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" />
+    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" width="1000"/>
   </td>
 </tr>
 </table>
