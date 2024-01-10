@@ -3,8 +3,10 @@
 <table>
 <tr>
   <td>
+    <div align="center">
     <h1 >Hi 👋, I'm Meriem</h1>
     <h2 >A passionate computer-science student from Algeria | Frontend Developer</h2>
+    </div>
     
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
 - 🌱 I’m currently learning **Java**
@@ -12,7 +14,7 @@
 - 📫 How to reach me **m.boussaid2004@gmail.com**
   </td>
   <td>
-    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" width="1600"/>
+    <img src="https://imgur.com/0i3F0U5.jpg" alt="keqing" />
   </td>
 </tr>
 </table>
