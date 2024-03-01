@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Meriem1551&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Meriem1551" /> </p>
-<img src="https://imgur.com/sKNtuj5.gif" alt="Image Alt Text" width="1200" height="350" />
+<img src="https://imgur.com/7txVMzV.gif" alt="Image Alt Text" width="1200" height="350" />
 <table>
 <tr>
   <td>
