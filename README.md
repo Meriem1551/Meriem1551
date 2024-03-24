@@ -9,7 +9,7 @@
     </div>
     
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **PHP**
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📧 How to reach me **m.boussaid2004@gmail.com**
  ### 🌟 Hobbies:
