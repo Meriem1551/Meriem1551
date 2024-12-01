@@ -5,10 +5,11 @@
   <td>
     <div align="center">
     <h1 >Hi 👋, I'm Meriem :smile:</h1>
-    <h2 >A passionate computer science student 👩‍💻 from Algeria | Frontend Developer </h2>
+    <h2 >A passionate computer science student 👩‍💻 from Algeria | GDG Algiers member </h2>
     </div>
     
-- 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Meriem1551/alx-low_level_programming)
+- 🔭 I’m currently working on IGL project: Réalisation d’une application web de gestion du DPI
+- <!--GDG Integration Program -->
 <!--- 🌱 I’m currently learning **web d**-->
 - 💬 Ask me about **React, Html, Css, JS, C**
 - 📧 How to reach me **mm_boussaid@esi.dz**
