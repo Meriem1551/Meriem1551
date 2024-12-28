@@ -5,7 +5,7 @@
   <td>
     <div align="center">
     <h1 >Hi 👋, I'm Meriem :smile:</h1>
-    <h2 >A passionate computer science student 👩‍💻 from Algeria | GDG Algiers member </h2>
+    <h2 >A passionate computer science student 👩‍💻 from Algeria | GDG Algiers member : LAKOM member</h2>
     </div>
     
 - 🔭 I’m currently working on IGL project: Réalisation d’une application web de gestion du DPI
